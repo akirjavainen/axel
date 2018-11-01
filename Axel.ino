@@ -23,7 +23,7 @@
 * 2. Send a command, eg. "sendAxelCommand(AXEL_TOGGLE_1);", which stops
 *    the pairing mode.
 * 3. Now you can control the cord by sending alternating commands to it.
-*    E.g. sendCOTechCommand(AXEL_TOGGLE_1); (or AXEL_TOGGLE_2).
+*    E.g. sendAxelCommand(AXEL_TOGGLE_1); (or AXEL_TOGGLE_2).
 *
 * 
 * PROTOCOL DESCRIPTION
