@@ -6,7 +6,7 @@ http://www.nrx-china.com/productsd.php?pid=21&tid=7
 # How to use
 1. Load up RemoteCapture.ino and plug a 433.92MHz receiver to digital pin 2.
 2. Open up Tools -> Serial Monitor in Arduino IDE and start pressing the remote controller (button).
-3. Copy paste the 41 bit commands to Axel.ino for sendAxelCommand(). At least two different codes are needed.
+3. Copy paste the 41 bit commands to Axel.ino for sendAxelCommand(). A minimum of two different codes is required.
 
 
 # How to use with example commands
